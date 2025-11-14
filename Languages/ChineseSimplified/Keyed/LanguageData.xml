@@ -6,7 +6,7 @@
   <RRR.StraightChance>卒子是直男的几率（只对异性伙伴有浪漫的兴趣）。</RRR.StraightChance>
   <RRR.BisexualChance>卒子是双性恋的几率（对任何性别的伙伴都有兴趣）。</RRR.BisexualChance>
   <RRR.GayChance>卒子是同性恋的几率（只对同性伙伴有浪漫的兴趣）。</RRR.GayChance>
-  <RRR.AsexualChance>卒子是无性的机会（对任何浪漫的纠葛不感兴趣）。</RRR.AsexualChance>
+  <!-- Asexual chance removed in bisexual-only fork -->
   <RRR.PolyamoryChance>卒子被多情的机会。</RRR.PolyamoryChance>
   <RRR.PolyamoryChanceTip>这个滑块决定了棋子有多大可能拥有多情的特质。(多角恋，就像方向性特征一样，是一个 "额外 "的特征，实际上不会干扰正常的特征分配。默认情况下，它被设置为0%，因为多角恋系统还没有经过充分的测试，即使它能按预期运行，也可能会给殖民地的管理带来意想不到的复杂情况。</RRR.PolyamoryChanceTip>
   <RRR.AlienLoveChance>跨物种浪漫的修饰语。</RRR.AlienLoveChance>

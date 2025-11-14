@@ -14,7 +14,7 @@
     </exclusionTags>
   </TraitDef>
   <TraitDef>
-    <defName>Faithful</defName>
+  <commonality>1.0</commonality>
     <commonality>0.05</commonality>
     <degreeDatas>
       <li>
@@ -27,7 +27,7 @@
     </conflictingTraits>
   </TraitDef>
   <TraitDef>
-    <defName>Philanderer</defName>
+  <commonality>0.001</commonality>
     <commonality>0.05</commonality>
     <degreeDatas>
       <li>
@@ -40,7 +40,7 @@
     </conflictingTraits>
   </TraitDef>
   <TraitDef>
-    <defName>Polyamorous</defName>
+  <commonality>0.0</commonality>
     <commonality>0.001</commonality>
     <degreeDatas>
       <li>
@@ -53,3 +53,4 @@
     </conflictingTraits>
   </TraitDef>
 </Defs>
+  <commonality>0.0</commonality>

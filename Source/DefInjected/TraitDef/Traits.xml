@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Asexual.degreeDatas.0.label>asexual</Asexual.degreeDatas.0.label>
-  <Asexual.degreeDatas.0.description>{PAWN_nameDef} is uninterested in romantic entanglements.</Asexual.degreeDatas.0.description>
+  <!-- Asexual translations removed in bisexual-only fork -->
   <Bisexual.degreeDatas.0.label>bisexual</Bisexual.degreeDatas.0.label>
   <Bisexual.degreeDatas.0.description>{PAWN_nameDef} is romantically attracted to people regardless of gender.</Bisexual.degreeDatas.0.description>
   <Gay.degreeDatas.0.label>gay</Gay.degreeDatas.0.label>

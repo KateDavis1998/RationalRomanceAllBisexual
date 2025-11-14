@@ -2,7 +2,7 @@
 <Defs>
   <TraitDef>
     <defName>Asexual</defName>
-    <commonality>0.001</commonality>
+  <commonality>0.0</commonality>
     <degreeDatas>
       <li>
         <label>asexual</label>
@@ -18,7 +18,7 @@
   </TraitDef>
   <TraitDef>
     <defName>Bisexual</defName>
-    <commonality>0.001</commonality>
+  <commonality>1.0</commonality>
     <degreeDatas>
       <li>
         <label>bisexual</label>
@@ -33,7 +33,7 @@
   </TraitDef>
   <TraitDef>
     <defName>Gay</defName>
-    <commonality>0.001</commonality>
+  <commonality>0.0</commonality>
     <degreeDatas>
       <li>
         <label>gay</label>
@@ -48,7 +48,7 @@
   </TraitDef>
   <TraitDef>
     <defName>Straight</defName>
-    <commonality>0.001</commonality>
+  <commonality>0.0</commonality>
     <degreeDatas>
       <li>
         <label>straight</label>

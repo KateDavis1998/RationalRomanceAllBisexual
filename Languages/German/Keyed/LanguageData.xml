@@ -6,7 +6,7 @@
   <RRR.StraightChance>Chance, dass ein Bauer heterosexuell ist (romantisches Interesse nur an Partnern des anderen Geschlechts):</RRR.StraightChance>
   <RRR.BisexualChance>Chance, dass ein Bauer bisexuell ist (romantisches Interesse an Partnern beiderlei Geschlechts):</RRR.BisexualChance>
   <RRR.GayChance>Chance, dass ein Bauer schwul ist (romantisches Interesse nur an gleichgeschlechtlichen Partnern):</RRR.GayChance>
-  <RRR.AsexualChance>Chance, dass ein Bauer asexuell ist (uninteressiert an romantischen Verwicklungen):</RRR.AsexualChance>
+  <!-- Asexual chance removed in bisexual-only fork -->
   <RRR.PolyamoryChance>Chance, dass ein Bauer polyamorös ist:</RRR.PolyamoryChance>
   <RRR.PolyamoryChanceTip>Dieser Schieberegler bestimmt, wie wahrscheinlich es ist, dass ein Bauer die Eigenschaft Polyamorie hat. (Polyamorie ist, wie die Orientierungseigenschaften, eine "zusätzliche" Eigenschaft, die die normale Zuweisung von Eigenschaften nicht beeinträchtigt. Sie ist standardmäßig auf 0% eingestellt, da das Polyamorie-System noch nicht vollständig getestet ist und selbst wenn alles wie vorgesehen funktioniert, kann es zu unerwarteten Komplikationen bei der Verwaltung der Kolonie kommen.</RRR.PolyamoryChanceTip>
   <RRR.AlienLoveChance>Modifikator für speziesübergreifende Romantik:</RRR.AlienLoveChance>
