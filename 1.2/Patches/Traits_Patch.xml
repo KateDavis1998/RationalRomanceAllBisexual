@@ -8,6 +8,7 @@
     <match Class="PatchOperationSequence">
       <operations>
         <li Class="PatchOperationAddModExtension">
+          <!-- Straight is implemented as a placeholder def under Defs/TraitDef; target the placeholder to avoid missing-defs. -->
           <xpath>Defs/TraitDef[defName = "Straight"]</xpath>
           <value>
             <li Class="SyrTraitValue.TraitValueExtension">

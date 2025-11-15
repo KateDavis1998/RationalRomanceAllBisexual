@@ -26,8 +26,8 @@ public class Settings : ModSettings
         list.Label("RRR.Overview".Translate());
         Text.Font = GameFont.Small;
         list.Gap();
-        list.Label($"{"RRR.StraightChance".Translate() + "  "}{(int)StraightChance}%");
-        StraightChance = list.Slider(StraightChance, 0f, 100.99f);
+            // Straight slider removed in this fork; StraightChance key deprecated.
+            // Straight slider removed in this fork; StraightChance key deprecated.
         if (StraightChance > 100.99f - BisexualChance - GayChance)
         {
             StraightChance = 100.99f - BisexualChance - GayChance;
@@ -42,8 +42,8 @@ public class Settings : ModSettings
         }
 
         list.Gap();
-        list.Label($"{"RRR.GayChance".Translate() + "  "}{(int)GayChance}%");
-        GayChance = list.Slider(GayChance, 0f, 100.99f);
+            // Gay slider removed in this fork; GayChance key deprecated.
+            // Gay slider removed in this fork; GayChance key deprecated.
         if (GayChance > 100.99f - StraightChance - BisexualChance)
         {
             GayChance = 100.99f - StraightChance - BisexualChance;

@@ -13,8 +13,5 @@
   <Polyamorous.degreeDatas.polyamorous.label>多情</Polyamorous.degreeDatas.polyamorous.label>
   <!-- EN: {PAWN_nameDef} prefers romantic relationships involving multiple partners to monogamous relationships. {PAWN_pronoun} doesn't mind if {PAWN_possessive} partners romance other people, but will be less happy in a restraining, monogamous relationship. -->
   <Polyamorous.degreeDatas.polyamorous.description>比起一夫一妻制，{PAWN_nameDef}更喜欢有多个伴侣的浪漫关系。{PAWN_pronoun}不介意{PAWN_possessive}的伴侣与其他人恋爱，但在克制的一夫一妻制关系中会不太开心。</Polyamorous.degreeDatas.polyamorous.description>
-  <!-- EN: straight -->
-  <Straight.degreeDatas.straight.label>直译</Straight.degreeDatas.straight.label>
-  <!-- EN: {PAWN_nameDef} is romantically attracted to people of the opposite gender. -->
-  <Straight.degreeDatas.straight.description>{PAWN_nameDef} 被异性浪漫地吸引。</Straight.degreeDatas.straight.description>
+  <!-- Straight/Gay translations removed in bisexual-only fork -->
 </LanguageData>

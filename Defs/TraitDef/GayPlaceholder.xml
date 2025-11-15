@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraitDef>
+    <defName>Gay</defName>
+    <!-- label and description intentionally blank to avoid being shown in UI -->
+    <label></label>
+    <description></description>
+  <commonality>0.0</commonality>
+    <!-- UI-safe placeholder: degree label left intentionally blank and commonality is zero so it won't be assigned or shown. -->
+    <degreeDatas>
+      <li>
+        <label></label>
+        <description></description>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+</Defs>

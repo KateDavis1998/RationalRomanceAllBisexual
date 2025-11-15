@@ -3,10 +3,7 @@
   <!-- Asexual translations removed in bisexual-only fork -->
   <Bisexual.degreeDatas.0.label>bisexuel</Bisexual.degreeDatas.0.label>
   <Bisexual.degreeDatas.0.description>{PAWN_nameDef} est attiré de façon romantique par les gens quel que soit leur sexe.</Bisexual.degreeDatas.0.description>
-  <Gay.degreeDatas.0.label>homosexuel</Gay.degreeDatas.0.label>
-  <Gay.degreeDatas.0.description>{PAWN_nameDef} est attiré de façon romantique par les personnes de {PAWN_possessive} de son propre sexe.</Gay.degreeDatas.0.description>
-  <Straight.degreeDatas.0.label>hétérosexuel</Straight.degreeDatas.0.label>
-  <Straight.degreeDatas.0.description>{PAWN_nameDef} est attiré de façon romantique par des personnes du sexe opposé.</Straight.degreeDatas.0.description>
+  <!-- Straight/Gay translations removed in bisexual-only fork -->
   <Faithful.degreeDatas.0.label>fidèle</Faithful.degreeDatas.0.label>
   <Faithful.degreeDatas.0.description>{PAWN_nameDef} ne trompera jamais un partenaire, quelle que soit les problèmes dans la relation.</Faithful.degreeDatas.0.description>
   <Philanderer.degreeDatas.0.label>coureur de jupons</Philanderer.degreeDatas.0.label>
@@ -26,8 +23,5 @@
   <Polyamorous.degreeDatas.polyamorous.label>polyamoureux</Polyamorous.degreeDatas.polyamorous.label>
   <!-- EN: {PAWN_nameDef} prefers romantic relationships involving multiple partners to monogamous relationships. {PAWN_pronoun} doesn't mind if {PAWN_possessive} partners romance other people, but will be less happy in a restraining, monogamous relationship. -->
   <Polyamorous.degreeDatas.polyamorous.description>{PAWN_nameDef} préfère les relations romantiques impliquant plusieurs partenaires aux relations monogames. {PAWN_pronoun} ne voit pas d'inconvénient à ce que les partenaires de {PAWN_possessive} aient des relations amoureuses avec d'autres personnes, mais sera moins heureux dans une relation monogame contraignante.</Polyamorous.degreeDatas.polyamorous.description>
-  <!-- EN: straight -->
-  <Straight.degreeDatas.straight.label>droit</Straight.degreeDatas.straight.label>
-  <!-- EN: {PAWN_nameDef} is romantically attracted to people of the opposite gender. -->
-  <Straight.degreeDatas.straight.description>{PAWN_nameDef} est romantiquement attiré par les personnes du sexe opposé.</Straight.degreeDatas.straight.description>
+  <!-- Straight translations removed in this fork; see Defs/TraitDef/StraightPlaceholder.xml -->
 </LanguageData>

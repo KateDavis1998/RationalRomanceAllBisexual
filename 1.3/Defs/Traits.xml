@@ -14,7 +14,7 @@
     </exclusionTags>
   </TraitDef>
   <TraitDef>
-  <commonality>1.0</commonality>
+    <defName>Faithful</defName>
     <commonality>0.05</commonality>
     <degreeDatas>
       <li>
@@ -27,7 +27,7 @@
     </conflictingTraits>
   </TraitDef>
   <TraitDef>
-  <commonality>0.001</commonality>
+    <defName>Philanderer</defName>
     <commonality>0.05</commonality>
     <degreeDatas>
       <li>
@@ -40,7 +40,7 @@
     </conflictingTraits>
   </TraitDef>
   <TraitDef>
-  <commonality>0.0</commonality>
+    <defName>Polyamorous</defName>
     <commonality>0.001</commonality>
     <degreeDatas>
       <li>
@@ -52,5 +52,5 @@
       <li>Asexual</li>
     </conflictingTraits>
   </TraitDef>
+  <!-- Straight trait def removed from versioned Traits.xml; see Defs/TraitDef/StraightPlaceholder.xml for placeholder. -->
 </Defs>
-  <commonality>0.0</commonality>

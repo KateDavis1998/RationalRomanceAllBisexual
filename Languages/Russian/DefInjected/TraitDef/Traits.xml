@@ -13,8 +13,5 @@
   <Polyamorous.degreeDatas.polyamorous.label>полиамурный</Polyamorous.degreeDatas.polyamorous.label>
   <!-- EN: {PAWN_nameDef} prefers romantic relationships involving multiple partners to monogamous relationships. {PAWN_pronoun} doesn't mind if {PAWN_possessive} partners romance other people, but will be less happy in a restraining, monogamous relationship. -->
   <Polyamorous.degreeDatas.polyamorous.description>{PAWN_nameDef} предпочитает романтические отношения с несколькими партнерами моногамным отношениям. {PAWN_pronoun} не возражает, если {PAWN_possessive} партнеры заводят романы с другими людьми, но будет менее счастлив в сдерживающих, моногамных отношениях.</Polyamorous.degreeDatas.polyamorous.description>
-  <!-- EN: straight -->
-  <Straight.degreeDatas.straight.label>прямой</Straight.degreeDatas.straight.label>
-  <!-- EN: {PAWN_nameDef} is romantically attracted to people of the opposite gender. -->
-  <Straight.degreeDatas.straight.description>{PAWN_nameDef} испытывает романтическое влечение к людям противоположного пола.</Straight.degreeDatas.straight.description>
+  <!-- Straight/Gay translations removed in bisexual-only fork -->
 </LanguageData>

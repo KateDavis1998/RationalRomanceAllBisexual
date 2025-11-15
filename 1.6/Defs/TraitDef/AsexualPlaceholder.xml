@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraitDef>
+    <defName>Asexual</defName>
+    <label>asexual</label>
+    <description>Placeholder trait to maintain compatibility while orientations are being refactored.</description>
+    <commonality>0.0</commonality>
+    <degreeDatas>
+      <li>
+        <label>asexual</label>
+        <description>Placeholder.</description>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+</Defs>
